@@ -123,6 +123,9 @@ Optimizations
 :doc:`LoopTerminology`
   A document describing Loops and associated terms as used in LLVM.
 
+:doc:`SLPTerminology`
+  A document describing Superword Level Parallelism (SLP) and associated terms as used in LLVM.
+
 :doc:`Vectorizers`
    This document describes the current status of vectorization in LLVM.
 
